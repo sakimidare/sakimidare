@@ -80,9 +80,9 @@ END_SECTION:waka-->
 #### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Phigros v2.3.3 曲目信息](https://ssmzhn.vercel.app/2022/08/20/chart/)
 - [Termux 使用指南](https://ssmzhn.vercel.app/2022/06/25/termux-guide/)
 - [草](https://ssmzhn.vercel.app/2022/01/01/waaru/)
 - [蚌埠](https://ssmzhn.vercel.app/2021/10/04/beng-bu/)
 - [Hello World](https://ssmzhn.vercel.app/2021/10/02/hello-world/)
-- [《一元四次方程的求根公式》](https://ssmzhn.vercel.app/2021/09/30/quartic-equation-of-one-unknown/)
 <!-- BLOG-POST-LIST:END -->
