@@ -80,9 +80,9 @@ END_SECTION:waka-->
 #### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello World](https://ssmzhn.vercel.app/2022/12/17/hello-world/)
+- [完全自杀手册](https://ssmzhn.vercel.app/2023/08/06/complete_suicide_manual/)
 - [TeX 指南](https://ssmzhn.vercel.app/2022/12/17/tex-guide/)
 - [Phigros v2.3.3 曲目信息](https://ssmzhn.vercel.app/2022/08/20/chart/)
+- [Hello World](https://ssmzhn.vercel.app/2022/08/20/hello-world/)
 - [Termux 使用指南](https://ssmzhn.vercel.app/2022/06/25/termux-guide/)
-- [草](https://ssmzhn.vercel.app/2022/01/01/waaru/)
 <!-- BLOG-POST-LIST:END -->
