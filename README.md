@@ -1,6 +1,4 @@
-### 👋 Hi, I'm NameSetter
-
-You can also find me as `ssmzhn` or `nAmEsEtTeR`.
+### 👋 Hi, I'm SakiMidare!
 
 ---
 
@@ -51,11 +49,7 @@ END_SECTION:waka-->
 
 [![Personal Homepage](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ssmzhn.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ssmzhn)
-<!--
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:chitang233@proton.me)-->
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NameSetter)
-<!--
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCZjCVTcX3O6-hhFAurGJitg)-->
 
 ---
 
@@ -67,22 +61,10 @@ END_SECTION:waka-->
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-<!--
-#### 🕹 Games
-
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/chitang233)
-[![Minecraft](https://img.shields.io/badge/chitang-green?style=for-the-badge&logo=Minecraft&logoColor=white)](https://namemc.com/profile/chitang.2)
-
-![Genshin Impact information](https://genshin-card.getloli.com/rand/83264638.png)
--->
 ---
 
 #### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [完全自杀手册](https://ssmzhn.vercel.app/2023/08/06/complete_suicide_manual/)
-- [TeX 指南](https://ssmzhn.vercel.app/2022/12/17/tex-guide/)
-- [Phigros v2.3.3 曲目信息](https://ssmzhn.vercel.app/2022/08/20/chart/)
-- [Hello World](https://ssmzhn.vercel.app/2022/08/20/hello-world/)
-- [Termux 使用指南](https://ssmzhn.vercel.app/2022/06/25/termux-guide/)
+
 <!-- BLOG-POST-LIST:END -->
