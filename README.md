@@ -44,5 +44,6 @@
 
 #### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-
+- [写 C 时遇到的一个小问题](https://sakimidare.github.io/posts/a-problem-during-c-programming/)
+- [Hello World! 梦开始的地方](https://sakimidare.github.io/posts/hello-world/)
 <!-- BLOG-POST-LIST:END -->
