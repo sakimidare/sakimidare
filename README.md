@@ -27,7 +27,7 @@
 
 #### 📱 Find Me
 
-[![Personal Homepage](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sakimidare.github.io)
+[![Personal Homepage](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sakimidare.top)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakimidare)
 
 ---
