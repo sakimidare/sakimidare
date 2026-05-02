@@ -44,9 +44,9 @@
 
 #### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bomb Lab Writeup](https://sakimidare.top/posts/bomb-lab/)
 - [Niri 安装与配置](https://sakimidare.top/posts/niri-manual/)
 - [如何成为黑客](https://sakimidare.top/posts/how-to-become-a-hacker/)
 - [提问的智慧](https://sakimidare.top/posts/how-to-ask-questions-the-smart-way/)
 - [写 C 时遇到的一个小问题](https://sakimidare.top/posts/a-problem-during-c-programming/)
-- [Hello World! 梦开始的地方](https://sakimidare.top/posts/hello-world/)
 <!-- BLOG-POST-LIST:END -->
